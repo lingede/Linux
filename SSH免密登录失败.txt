@@ -1,0 +1,6 @@
+1.查看日志文件
+cat /var/log/auth.log
+
+2.发现是home/ld3的权限问题
+
+3.修改ld3权限
